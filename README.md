@@ -1,5 +1,5 @@
 # hello-world
 
-hi peeps
-zeke is here and im not a boss
-i've had tacos on the moon and find them tasty
+Hello people,
+Zeke is the boss here.
+I've had tacos and find them tasty.
